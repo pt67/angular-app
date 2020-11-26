@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module'; // CLI imports AppRouti
   templateUrl: './app.about.html',
   styleUrls: ['./app.component.css']
 })
+
 export class About {
   about = 'About';
 }
